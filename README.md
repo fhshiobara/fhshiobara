@@ -8,7 +8,7 @@ Sempre me interessei por entender como as coisas funcionam por baixo dos panos, 
 🎯 **Buscando oportunidade de estágio** para aplicar e expandir meus conhecimentos técnicos em projetos reais.
 
 - 💻 Experiência em **C**, **C++**, **Python** e **VHDL**.
-- 🎤 Membro do **PETECO**, Pet de Engenharia de Computação, responsável por **apresentar** e **palestrar** sobre conhecimentos do curso para a **comunidade tanto externa quanto interna à faculdade**.
+- 🎤 Membro do **PETECO**, Pet de Engenharia de Computação, onde ministro oficinas e palestras técnicas para a comunidade interna e externa da universidade.
 - 📚 **Inglês** a nível fluente com **certificado de Cambridge**.
 - 🥋 **Campeão Pan-americano de Taekwondo Songahm** dentro da minha categoria em 2025.
 - 🎵 Gosto também de música, hoje, toco: teclado, violão e guitarra. 
