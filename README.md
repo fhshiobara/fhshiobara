@@ -2,7 +2,7 @@
   <h1>Felipe Hideki Shiobara</h1>
   <h3>Estudante de Engenharia de Computação — UTFPR</h3>
 </div>
-Sempre me interessei por como as coisas funcionam e entrei para a faculdade de Engenharia de Computação com o objetivo de me aprofundar cada vez mais em entendimento de sistemas no geral. Hoje tenho preferências pela área de backend e otimização de algoritmos.
+Sempre me interessei por entender como as coisas funcionam por baixo dos panos, o que me levou à Engenharia de Computação para me aprofundar na arquitetura de sistemas. Atualmente, meu foco principal está em **desenvolvimento backend** e **otimização de algoritmos**.
 
 🎯 **Buscando oportunidade de estágio** para aplicar e expandir meus conhecimentos técnicos em projetos reais.
 
